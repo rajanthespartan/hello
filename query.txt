@@ -1,0 +1,1 @@
+SELECT date_add(created_at,INTERVAL 330 MINUTE),coupon_code, increment_id, grand_total, status, customer_email, customer_firstname, customer_lastname FROM `sales_flat_order` WHERE coupon_code LIKE "loom10" AND created_at BETWEEN "2020-09-30 00:00:00" AND "2020-10-07 00:00:00"
