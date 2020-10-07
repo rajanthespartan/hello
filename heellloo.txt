@@ -1,0 +1,4 @@
+Adobe\ Creative\ Cloud.lnk		Firefox.lnk	    Microsoft\ Edge.lnk
+Adobe\ Reader\ XI.lnk			Google\ Chrome.lnk  query.txt
+bandicam\ 2020-10-06\ 12-09-58-340.mp4	heellloo.txt	    with_status.csv
+deatls.txt				hello.txt	    without_status.csv
